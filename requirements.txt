@@ -1,0 +1,6 @@
+-e git+https://github.com/pauljpritz/data_science_project_template.git@c6075b696b087102c8a3f4ad629a3c1df5dce623#egg=data_science_project_template
+numpy==1.19.2
+pandas==1.1.2
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
